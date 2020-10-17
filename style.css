@@ -1,0 +1,16 @@
+#text-input {
+    width: 400px
+}
+#img-output {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    border: 2px solid royalblue;
+}
+.banner {
+    color: #FFD23F;
+    background-color: royalblue;
+    font-family: sans-serif;
+}
